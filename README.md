@@ -1,1 +1,3 @@
-# agile-practices2026-Team-C
+# agile-practices2026-C
+
+Team name:NBA（No Bragging Allowed）
